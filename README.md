@@ -1,1 +1,1 @@
-﻿﻿ h1    | h2    | h3    :-------|:-------|:------- <img src="ILSVRC2012_val_00000023.JPEG" height="200"> | data2 | data3 
+﻿﻿<img src="ILSVRC2012_val_00000023.JPEG" height="200"> <img src="ILSVRC2012_val_00000023.JPEG" height="200"> <img src="ILSVRC2012_val_00000023.JPEG" height="200"> h1    | h2    | h3    :-------|:-------|:------- data1 | data2 | data3 
