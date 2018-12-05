@@ -14,11 +14,9 @@
 
    Название модели   |   C++ (синхронный режим)  |  C++ (асинхронный режим)  |   Python (синхронный режим)  |  Python (асинхронный режим)|
 ---------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-alexnet              |                           |                           |1 0.9896094 label Granny Smith 
-																			  2 0.0037969 label bell pepper 
-																			  3 0.0013717 label piggy bank, penny bank 
-																			  4 0.0011059 label acorn 
-																			  5 0.0009710 label fig         |                            |
+alexnet              |                           |                           |0.9896094 label Granny Smith   0.9896094 label Granny Smith   0.9896094 label Granny Smith   0.9896094 label Granny Smith|                            |
+alexnet              |                           |                           |                              |                            |
+alexnet              |                           |                           |                              |                            |
 densenet-121         |                           |                           |                              |                            |
 densenet-161         |                           |                           |                              |                            |
 densenet-169         |                           |                           |                              |                            |
